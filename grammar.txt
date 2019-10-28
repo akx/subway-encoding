@@ -1,0 +1,10 @@
+subType: 'salad' | '15cm' | '30cm'
+breadType: 'Vaalea' | 'Juusto-Oregano' | 'Tumma' | 'Hunajakaura' | 'Monijyvä' | '9-viljan leipä' | 'Tomaattibasilika-tortilla' | 'Gluteeniton'
+flavor: 'American Steakhouse Melt' | 'Beef Taco' | 'Chickpea Quinoa' | 'Italian B.M.T.®' | 'Kalkkuna' | 'Kana Fajita' | 'Kana Teriyaki' | 'Kananrinta' | 'Kinkku' | 'Spicy Italian' | 'Steak & Cheese' | 'Subway Melt™' | 'Tonnikala' | 'Vegaaninen kasvispihvi' | 'Veggie Delite®' | 'Seasonal'
+cheeseType: 'none' | 'american' | 'blue' | 'pepper jack' | 'cheddar' | 'mozzarella-cheddar' | 'feta' | 'parmesan'
+doubleMeat: true | false
+doubleCheese: true | false
+heat: true | false
+sauces: 'BBQ' & 'Southwest' & 'Hunajasinappi' & 'Kevytmajoneesi' & 'Makea sipulikastike' & 'Valkosipulikastike' & 'Tulinen' & 'Makea chilikastike' & 'Caesar-kastike' & 'Punaviinietikka' & 'Oliiviöljy'
+vegetables: 'jalapeno' & 'oliivi' & 'maissi' & 'suolakurkku' & 'guacamole' & 'jäävuorisalaatti' & 'tomaatti' & '2-värinen paprika' & 'kurkku' & 'punasipuli'
+extras: 'Paahdettu sipuli' & 'Paahdetut siemenet' & 'Merisuola' & 'Pippuri' & 'Chilihiutaleet' & 'Oregano' & 'Pekoni'
