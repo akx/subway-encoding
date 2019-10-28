@@ -4,4 +4,5 @@
 #
 #    pip-compile requirements.in
 #
+construct==2.9.45
 lark-parser==0.7.7
